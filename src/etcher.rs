@@ -628,6 +628,7 @@ pub fn read(path: &str, threads: usize) -> anyhow::Result<Vec<u8>> {
 //                     OutputMode::Binary => {
 //                         let binary_data = read_bw(&source, current_frame, final_frame, final_byte).unwrap();
 //                         translate_u8(binary_data).unwrap()
+hi niraj
 //                     }
 //                 };
 //                 current_frame += 1;
