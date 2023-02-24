@@ -56,4 +56,3 @@ impl EmbedSource {
         }
     }
 }
-vh
